@@ -1,0 +1,23 @@
+{
+  "name": "@whirl21/calculator",
+  "version": "2.0.0",
+  "description": "Just another calculator npm package",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node tests/test.mjs"
+  },
+  "keywords": [
+    "calculator",
+    "whirl",
+    "whirl21",
+    "add",
+    "subtract",
+    "multiply",
+    "divide"
+  ],
+  "author": "Whirl21",
+  "license": "MIT",
+  "dependencies": {
+    "@whirl21/calculator": "^2.0.0"
+  }
+}
