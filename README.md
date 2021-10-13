@@ -1,6 +1,6 @@
 # Calculator
 
-> a small package i one made when i was learning nodejs
+> a small package i made one day while i was learning nodejs ( rewrote it today)
 
 - easy to use
 - supports typescript
