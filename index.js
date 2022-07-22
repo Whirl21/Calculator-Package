@@ -4,7 +4,7 @@ const multiply = require("./functions/multiply");
 const divide = require("./functions/division");
 const power = require("./functions/exponent");
 
-module.exports = {
+module.exports  = {
   add,
   subtract,
   multiply,
